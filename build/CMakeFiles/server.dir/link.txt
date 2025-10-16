@@ -1,0 +1,1 @@
+/ucrt64/bin/c++.exe -Wl,--enable-auto-import CMakeFiles/server.dir/src/main.cpp.o CMakeFiles/server.dir/src/Server.cpp.o CMakeFiles/server.dir/src/Session.cpp.o -o server.exe -Wl,--out-implib,libserver.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lpthread
