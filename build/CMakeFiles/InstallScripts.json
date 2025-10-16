@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/d/cpp/server/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}
